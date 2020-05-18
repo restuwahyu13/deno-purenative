@@ -43,3 +43,4 @@ https://deno.land/x/http_server
 https://deno.land/x/http_wrapper
 https://deno.land/x/denjucks
 https://deno.land/x/dirname
+https://servestjs.org/@/mod.ts
