@@ -1,4 +1,4 @@
-## Example Fetch Data API with Pure Native Denojs
+## Example Fetch Data API using Pure Native Denojs
 
 **Berikut adalah** contoh implementasi **Fetch Data API** menggunakan **Pure Native DenoJs**.
 
