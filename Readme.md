@@ -4,7 +4,7 @@
 
 #### Cara Menjalankan
 
-- install deno terlebih dahulu dengan menggunakan `[chocolatey](https://chocolatey.org/install)`.
+- install deno terlebih dahulu dengan menggunakan [chocolatey](https://chocolatey.org/install).
 
 - untuk menjalankannya silahkan ketikan `deno run --allow-all index.ts`
 
