@@ -1,0 +1,45 @@
+#FRAMEWROK DENO
+https://deno.land/x/drash - similiar to Laravel
+https://deno.land/x/abc - similiar to fastify
+https://deno.land/x/alosaur - similar to NestJs
+https://deno.land/x/pogo - similiar to HapiJs
+https://deno.land/x/fen - similar to KoaJs
+https://deno.land/x/denotrain - similiar to KoaJs
+https://deno.land/x/espresso  - Uknown
+https://deno.land/x/aqua - Uknown
+https://deno.land/x/fastro - Uknown
+
+
+#THIRT PART MODULE
+https://deno.land/x/oak
+https://deno.land/x/bcrypt
+https://deno.land/x/bwt
+https://deno.land/x/dejs
+https://deno.land/x/dexecutor
+https://deno.land/x/djwt
+https://deno.land/x/dotenv
+https://deno.land/x/drash
+https://deno.land/x/event_emitter
+https://deno.land/x/expect
+https://deno.land/x/handlebars
+https://deno.land/x/oak
+https://deno.land/x/pogo
+https://deno.land/x/rute
+https://deno.land/x/uuid
+https://deno.land/x/view_engine
+https://deno.land/x/mongo@v0.6.0
+https://deno.land/x/postgres
+https://deno.land/x/redis
+https://deno.land/x/rubico
+https://deno.land/x/rute
+https://deno.land/x/slugify
+https://deno.land/x/smtp
+https://deno.land/x/argon2
+https://deno.land/x/config
+https://deno.land/x/denoliver
+https://deno.land/x/denon
+https://deno.land/x/handlebars
+https://deno.land/x/http_server
+https://deno.land/x/http_wrapper
+https://deno.land/x/denjucks
+https://deno.land/x/dirname
