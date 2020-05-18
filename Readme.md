@@ -1,4 +1,4 @@
-## Example Rest API with Pure Native Nodejs
+## Example Fetch Data API with Pure Native Denojs
 
 **Berikut adalah** contoh implementasi **Fetch Data API** menggunakan **Pure Native DenoJs**.
 
