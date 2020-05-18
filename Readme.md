@@ -22,4 +22,4 @@
 | view  | http://localhost:3000 |
 | fetch api | http://localhost:3000 |
 
-**Semoga** dengan adanya tutorial ini  bisa membantu teman - teman semua yang sedang belajar, khususnya belajar **DenoJs** menggunakan **Pure Native Denojs**. Terimakasih
+**Semoga** dengan adanya tutorial ini  bisa membantu teman - teman semua yang sedang belajar, khususnya belajar **Denojs** menggunakan **Pure Native Denojs**. Terimakasih
