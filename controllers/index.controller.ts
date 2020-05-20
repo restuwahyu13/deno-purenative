@@ -4,6 +4,7 @@ import {
 } from "https://deno.land/std@0.50.0/http/server.ts";
 import { send } from "../helpers/flash.ts";
 import { render } from "../helpers/render.ts";
+
 interface IindexController {
   viewController: Function;
   fetchController: Function;
