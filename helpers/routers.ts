@@ -1,5 +1,5 @@
 import {
-  Response,
+  Response as ServerResponse,
   ServerRequest,
 } from "https://deno.land/std@0.50.0/http/server.ts";
 
@@ -46,7 +46,7 @@ let routeConfigs: IrouteConfigs = {
 *@param req - ServerRequest
 *@param res - ServerResponse
 */
-export function httpRouter(req: ServerRequest, res: Response) {
+export function httpRouter(req: ServerRequest, res: ServerResponse) {
   let url = req.url;
   switch (typeof methods[req.method + url] === "function" && req.method) {
     case "GET":
